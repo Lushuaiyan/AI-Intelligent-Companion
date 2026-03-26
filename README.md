@@ -12,6 +12,10 @@
 
 3.注意事项
 
+  在项目目录下创建conversation_record文件夹,用于保存ai模型数据
+
+  在项目目录下创建resource文件夹,在其中存放你喜欢的logo
+
   需要使用大模型API,并将大模型API key创建到环境变量中
 
   变量名DEEPSEEK_API_KEY,变量值 API key
